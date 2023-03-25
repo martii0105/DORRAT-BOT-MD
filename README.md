@@ -1,20 +1,17 @@
-# ***🔥 DORRAT-BOT-MD 🔥***
+# ***👸🏻 MARTII-BOT 👸🏻***
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src= "https://github.com/martii0105/Martii-bot/blob/main/galeria/102%20sin%20t%C3%ADtulo_20230319210127.png" alt="@martii.bs" width="900"/>
 </p>
 
-### `—◉ ❤️BOTS OFICIALES`
+### ` 💋Sigueme en Instagram`
 
-<a href="http://wa.me/50495625729" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://instagram.com/martiii.bs?igshid=Mzc1MmZhNjY="><img src="https://img.shields.io/badge/-%40martii.bs-ff69b4" target="_blank"></a>
 
-`—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
+` DUDAS SOBRE EL BOT?, CONTACTAME ✨`
 
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/martiii.bs/"><img src="https://img.shields.io/badge/-%40martii.bs-ff69b4" target="_blank"></a>
+
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
