@@ -24,7 +24,7 @@ https://youtu.be/DKo7PO2ta4o
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝚁𝙱𝙾𝚃',
-body: '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤†',         
+body: '᪣@𝒎𝒂𝒓𝒕𝒊𝒊𝒊.𝒃𝒔👸🏻',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
 sourceUrl: `https://github.com/DIEGO-OFC/DORRAT-BOT-MD`}}})   
 }
